@@ -1,8 +1,10 @@
 ## Introduction
 
-This project is a solution to SKU-100k
+A state of art detector for densely packed scenes dataset SKU-110K.
 
-<img src="/home/rtz/preview.jpg" alt="avatar" style="zoom: 33%;" />
+For more information, please read our technical report, [https://arxiv.org/pdf/2007.11946](https://arxiv.org/pdf/2007.11946)
+
+<img src="preview.jpg" alt="avatar" style="zoom: 33%;" />
 
 ## License
 
