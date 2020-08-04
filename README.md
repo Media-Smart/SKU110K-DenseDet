@@ -28,7 +28,7 @@ Please goto [GETTING_STARTED.md](docs/GETTING_STARTED.md) for the basic usage of
 
 Before you are about to run or train, please edit the path in  [configuration](configs/SKU_fusion_bifpn_x101_32x4d.py)
 
-### test
+### Test
 
 ```shell
 python tools/test.py configs/SKU_fusion_bifpn_x101_32x4d.py \
@@ -36,7 +36,7 @@ python tools/test.py configs/SKU_fusion_bifpn_x101_32x4d.py \
     --show
 ```
 
-### train
+### Train
 
 ```shell
 python tools/train.py configs/SKU_fusion_bifpn_x101_32x4d.py
@@ -59,5 +59,5 @@ This repository is currently maintained by Tianze Rong ([@SteelBeamR](https://gi
 
 ## Credits
 
-The whole project is based on  [mmcv](https://github.com/open-mmlab/mmcv) and [mmdetection](https://github.com/open-mmlab/mmdetection) via [open-mmlab](https://github.com/open-mmlab).
+The whole project is based on  [mmcv](https://github.com/open-mmlab/mmcv) and [mmdetection-v1.0rc1](https://github.com/open-mmlab/mmdetection/tree/v1.0rc1) via [open-mmlab](https://github.com/open-mmlab).
 
