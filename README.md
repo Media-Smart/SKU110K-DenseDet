@@ -46,7 +46,7 @@ python tools/train.py configs/SKU_fusion_bifpn_x101_32x4d.py
 
 The performance applied on SKU-110k of our best solution.
 
-|            | mAP   | AP@50  | AP@50 |
+|            | mAP   | AP@50  | AP@75 |
 | ---------- | ----  | -----  | ----- |
 | Val Set    | 58.0% | 92.0%  | 66.5% |
 | Test Set 1 | 58.7% | 92.9%  | 67.3% |
