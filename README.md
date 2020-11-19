@@ -24,7 +24,7 @@ This project is released under the [Apache 2.0 license](https://github.com/Media
 
 ## Get Started
 
-Please goto [GETTING_STARTED.md](docs/GETTING_STARTED.md) for the basic usage of MMDetection.
+Please go to [GETTING_STARTED.md](docs/GETTING_STARTED.md) for the basic usage of MMDetection.
 
 Before you are about to run or train, please edit the path in  [configuration](configs/SKU_fusion_bifpn_x101_32x4d.py)
 
