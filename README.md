@@ -59,5 +59,5 @@ This repository is currently maintained by Tianze Rong ([@SteelBeamR](https://gi
 
 ## Credits
 
-The whole project is based on  [mmcv](https://github.com/open-mmlab/mmcv) and [mmdetection-v1.0rc1](https://github.com/open-mmlab/mmdetection/tree/v1.0rc1) via [open-mmlab](https://github.com/open-mmlab).
+The whole project is based on  [mmcv v0.5.9](https://github.com/open-mmlab/mmcv/tree/v0.5.9) and [mmdetection v1.0rc1](https://github.com/open-mmlab/mmdetection/tree/v1.0rc1) via [open-mmlab](https://github.com/open-mmlab).
 
