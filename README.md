@@ -2,7 +2,7 @@
 
 A state of art detector for densely packed scenes dataset SKU-110K.
 
-For more information, please read our technical report, [https://arxiv.org/pdf/2007.11946](https://arxiv.org/pdf/2007.11946)
+For more information, please read our [technical report](https://arxiv.org/pdf/2007.11946).
 
 <img src="preview.jpg" alt="avatar" style="zoom: 33%;" />
 
@@ -26,7 +26,7 @@ This project is released under the [Apache 2.0 license](https://github.com/Media
 
 Please go to [GETTING_STARTED.md](docs/GETTING_STARTED.md) for the basic usage of MMDetection.
 
-Before you are about to run or train, please edit the path in  [configuration](configs/SKU_fusion_bifpn_x101_32x4d.py)
+Before you are about to run or train, please edit the path in  [configuration](configs/SKU_fusion_bifpn_x101_32x4d.py).
 
 ### Test
 
@@ -51,7 +51,7 @@ The performance applied on SKU-110k of our best solution.
 | Val Set    | 58.0% | 92.0%  | 66.5% |
 | Test Set 1 | 58.7% | 92.9%  | 67.3% |
 
-For more detail, please browse the [configuration](configs/SKU_fusion_bifpn_x101_32x4d.py)
+For more detail, please browse the [configuration](configs/SKU_fusion_bifpn_x101_32x4d.py).
 
 ## Contact
 
