@@ -31,7 +31,7 @@ Before you are about to run or train, please edit the path in  [configuration](c
 ### Test
 
 ```shell
-python tools/test.py configs/SKU_fusion_bifpn_x101_32x4d.py \
+python tools/test.py configs/SKU_fusion_bfp_x101_32x4d.py \
     ${YOUR_WEIGHT_PATH} \
     --show
 ```
@@ -39,7 +39,7 @@ python tools/test.py configs/SKU_fusion_bifpn_x101_32x4d.py \
 ### Train
 
 ```shell
-python tools/train.py configs/SKU_fusion_bifpn_x101_32x4d.py
+python tools/train.py configs/SKU_fusion_bfp_x101_32x4d.py
 ```
 
 ## Performance
